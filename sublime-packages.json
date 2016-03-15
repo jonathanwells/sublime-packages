@@ -4,7 +4,7 @@
   "packages": [
     {
       "name": "Jono's Oceanic Next Color Scheme",
-      "details": "https://github.com/jonathanwells/oceanic-next-color-scheme",
+      "details": "https://github.com/jonathanwells/sublime-oceanic-next-color-scheme",
       "releases": [
         {
           "sublime_text": "*",
